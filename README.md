@@ -7,3 +7,6 @@ Tip #264: Custom Cells (YouTube). Using table views and customizing cells so you
 These cells are also dynamic so the more information you put inside of them the larger they get.
 
 We use a struct to hold the cell data.
+
+Xcode 11
+Swift 5.1
